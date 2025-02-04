@@ -1,4 +1,4 @@
-shared.LoaderTitle = "Đăng Ký Kênh Min Gaming";
+shared.LoaderTitle = "Welcome!";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
